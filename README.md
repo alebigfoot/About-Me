@@ -54,16 +54,21 @@ A hands-on Blue Team environment designed to explore security telemetry, attack 
 
 ## 💼 Professional Experience
 
-**Deloitte — Cybersecurity**
+### Deloitte — Cybersecurity
 
-Worked with security monitoring workflows involving phishing alerts, brand protection, lost-device alerts, alert classification, false-positive assessment, and escalation of relevant findings.
+*August 2025 – January 2026*
 
-Additional work included SIEM correlation in Splunk, security reporting, and JavaScript-based customization of graphical security visualizations.
+* Monitored and triaged **phishing, brand protection, and lost-device alerts** using CrowdStrike, classifying findings, assessing false positives, and escalating relevant threats to Level 2 teams.
+* Performed **SIEM event correlation and security analysis** using Splunk.
+* Developed **customizable JavaScript-based visualizations** for security monitoring data, adapting graphical dashboards to client requirements.
+* Prepared cybersecurity governance reports using Microsoft Office and contributed to the internal alignment of the corporate security framework with Spain's **National Security Framework (ENS)**.
 
 ### Tribbu S.L. — IT Intern
 
-* Developed and executed **automated tests in JavaScript** for a mobile application, helping validate functionality and improve software quality.
-* Provided support with **ISO/IEC 27001** documentation and related security activities.
+*June 2024 – August 2024*
+
+* Developed and executed **automated JavaScript tests** for a mobile application to validate functionality and support software quality assurance.
+* Assisted with **ISO/IEC 27001** documentation and related information security activities.
 * Conducted **competitive market research** on similar applications across European and Latin American markets, comparing features and identifying industry trends.
 
 ---
