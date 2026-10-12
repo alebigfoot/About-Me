@@ -83,7 +83,7 @@ I'm interested in technical cybersecurity opportunities, particularly in SOC ope
 
 🔗 [GitHub](https://github.com/alebigfoot)
 
-💼 [LinkedIn](www.linkedin.com/in/alejandragarcíamartín)
+💼 [LinkedIn](https://www.linkedin.com/in/alejandragarcíamartín/)
 
 ---
 
