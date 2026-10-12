@@ -60,6 +60,12 @@ Worked with security monitoring workflows involving phishing alerts, brand prote
 
 Additional work included SIEM correlation in Splunk, security reporting, and JavaScript-based customization of graphical security visualizations.
 
+### Tribbu S.L. — IT Intern
+
+* Developed and executed **automated tests in JavaScript** for a mobile application, helping validate functionality and improve software quality.
+* Provided support with **ISO/IEC 27001** documentation and related security activities.
+* Conducted **competitive market research** on similar applications across European and Latin American markets, comparing features and identifying industry trends.
+
 ---
 
 ## 🎓 Education
