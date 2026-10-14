@@ -45,7 +45,7 @@ A hands-on Blue Team environment designed to explore security telemetry, attack 
 
 * **Wazuh:** SIEM/XDR monitoring and centralized security telemetry.
 * **T-Pot:** Multi-service honeypot for observing activity against exposed services.
-* **WireGuard:** Secure connectivity between lab components.
+* **Tailscale:** Secure connectivity between lab components.
 * **Objective:** Practice alert investigation, event correlation, detection analysis, and security monitoring.
 
 🔗 **[Explore the repository](https://github.com/alebigfoot/wazuh-tpot-soc)**
